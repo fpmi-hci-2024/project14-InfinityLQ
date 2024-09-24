@@ -1,5 +1,3 @@
-# project14-InfinityLQ
-
 # Project Name
 
 “Кухня Китая и Беларуси”
