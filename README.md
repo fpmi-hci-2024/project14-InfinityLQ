@@ -10,7 +10,7 @@
 
 * [Лабораторная работа 1](https://docs.google.com/document/d/1f7zbvIeLNrA1o4YHqfcPf_5AmuYVKloVvVUxeu_JYA8/edit?usp=sharingg)
 * [Лабораторная работа 2](https://docs.google.com/document/d/1MxSsyTINApRWOeed_AGQSqzn85AIZHbqINu5ghW9P0o/edit?usp=sharing)
-
+* [Лабораторная работа 5](https://docs.google.com/document/d/1mkKJQFpJqpoTEUbtXGyoaeRwNTQL-R0uVxj3wnttsrs/edit?usp=sharing)
 # Installation
 
 Данный репозиторий содержит документацию по проекту. Установка не требуется.
